@@ -1,0 +1,36 @@
+    1  git --version
+    2  python testing.py
+    3  ls
+    4  ls -l
+    5  rm testing.py
+    6  ls
+    7  ls -l
+    8  pwd
+    9  git init
+   10  ls
+   11  python testing.py
+   12  rm python.py
+   13  rm testing.py
+   14  ls
+   15  git init
+   16  ls -a
+   17  it ststus
+   18  git status
+   19  clear
+   20  git status
+   21  git add .
+   22  git commit -m testing.py
+   23  git status
+   24  ls
+   25  git commit -m "added file"
+   26  git status
+   27  clear
+   28  rm testing.py
+   29  ls
+   30  clear
+   31  git status
+   32  git restore testing.py
+   33  ls
+   34  git status
+   35  clear
+   36  history

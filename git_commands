@@ -34,3 +34,9 @@
    34  git status
    35  clear
    36  history
+ 1 try { . "c:\Users\HP\AppData\Local\Programs\Microsoft VS Code\resourc... 
+   2 ls
+   3 pwd
+   4 git clone https://github.com/chahakbisen/GIT-FOR-DEVOPS.git
+   5 cd git-for-devops
+   6 ls

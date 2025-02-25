@@ -47,3 +47,4 @@
    git clone <code-url-from-github>
 
 These are some new changes
+git pull(to pull the newly changed code from github to local)

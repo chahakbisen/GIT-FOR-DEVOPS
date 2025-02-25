@@ -40,3 +40,8 @@
    4 git clone https://github.com/chahakbisen/GIT-FOR-DEVOPS.git
    5 cd git-for-devops
    6 ls
+   git remote -v
+   git remote set-url 
+   git rm--cache <filename>
+   git restore
+   git clone <code-url-from-github>
